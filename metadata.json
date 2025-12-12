@@ -1,0 +1,8 @@
+{
+  "name": "AgainINDIA",
+  "description": "A single-screen spiritual education app guiding users on the Path to Moksha through ancient Indian wisdom, featuring 108 lessons, guided practice, and AI sage interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
